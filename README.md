@@ -43,26 +43,34 @@ Git installed.
 ## Installation and Setup
 
 Clone the repository:
+
 git clone https://github.com/yourusername/volunteer-matching.git
 cd volunteer-matching
 
 Install dependencies:
+
 npm install
 
 Set up environment variables:
 Create a .env file in the root directory with the following keys:
+
 MONGO_URI=<your_mongodb_connection_string>
 JWT_SECRET=<your_jwt_secret>
 PORT=5000
 
 Start the development server:
+
 node server.js
 
 Run tests:
+
 npm test
 
 ## Future Enhancements
 Real-time notifications using WebSocket.
+
 Integration with calendar APIs for event scheduling.
+
 Enhanced analytics in the reporting module.
+
 
