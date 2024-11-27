@@ -22,13 +22,19 @@ Generate reports on volunteer activities and event management, exportable as PDF
 
 ## Technology Stack
 Backend: Node.js, Express.js, MongoDB (with Mongoose)
+
 Frontend: React.js (or HTML/CSS/JavaScript, depending on your implementation)
+
 Database: MongoDB Atlas
+
 Testing: Jest, Supertest
+
 Authentication: JSON Web Tokens (JWT)
+
 Development Tools:
 Postman for API testing
 MongoDB Compass for database management
+
 ## Prerequisites
 Node.js installed on your system.
 MongoDB Atlas account (or local MongoDB setup).
